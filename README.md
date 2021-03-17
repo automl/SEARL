@@ -7,7 +7,7 @@
 This repository contains source code accompanying the ICLR 2021 publication:
 
 > [Sample-Efficient Automated Deep Reinforcement Learning](https://openreview.net/forum?id=hSjxQ3B7GWq)  
-> Jörg K.H. Franke, Gregor Koehler, André Biedenkapp, Frank Hutter
+> Jörg K.H. Franke, Gregor Koehler, André Biedenkapp, Frank Hutter \
 > In *Proceedings of the International Conference on Learning Representations (ICLR 2021)*, 2021.
 
 Sample-Efficient Automated Deep Reinforcement Learning (SEARL) jointly trains an RL off-policy agent and optimized the
