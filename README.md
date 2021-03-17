@@ -1,6 +1,5 @@
 # Sample-Efficient Automated Deep Reinforcement Learning
 
----
 [![Python](https://img.shields.io/badge/python-3.6-yellow.svg)](https://www.python.org/downloads/release/python-3611/)
 [![TensorFLow](https://img.shields.io/badge/PyTorch-1.6-yellow.svg)](https://pytorch.org/)
 
@@ -29,7 +28,6 @@ environment interactions during an algorithms HPO.
 
 ## Usage
 
----
 
 ### Requirements
 
